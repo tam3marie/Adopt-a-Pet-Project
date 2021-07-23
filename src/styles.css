@@ -33,7 +33,7 @@ p {
   );
   border-radius: 4px;
   color: #369e8d;
-  font-family: fantasy;
+  font-family: fantasy, Georgia, Times, "Times New Roman", serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 32px;
@@ -110,7 +110,7 @@ li {
   );
   border-radius: 4px;
   color: #369e8d;
-  font-family: fantasy;
+  font-family: fantasy, Georgia, Times, "Times New Roman", serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 32px;
@@ -128,7 +128,7 @@ li {
 }
 .footer {
   color: rgb(41, 40, 40);
-  font-family: fantasy;
+  font-family: fantasy, Georgia, Times, "Times New Roman", serif;
   font-size: 18px;
   font-weight: bold;
   line-height: 24px;
